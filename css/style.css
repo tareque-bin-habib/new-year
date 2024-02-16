@@ -17,10 +17,14 @@
     font-family: "Merriweather", serif;
 }
 
-.banner-text {
+.banner-layer {
+    height: 600px;
+    background-color: black;
+    opacity: 0.6;
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 15px;
 }
 
 
@@ -86,6 +90,7 @@
     align-items: center;
     justify-content: space-between;
     border-radius: 15px;
+
 }
 
 .midnight h1 {
@@ -227,6 +232,7 @@
     background-color: #FFF2F2;
     padding: 100px 0;
     font-family: "Merriweather", serif;
+    border-radius: 20px;
 }
 
 .newsletter-img {
