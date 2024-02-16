@@ -216,6 +216,12 @@
     margin-right: 100px;
 }
 
+.image-box:hover {
+    box-shadow: 10px 10px 20px black;
+    border-radius: 20px;
+    transition: 0.4s;
+}
+
 /* Newsletter Section  */
 .newsletter {
     background-color: #FFF2F2;
